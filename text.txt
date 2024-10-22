@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Some text 4
+
+More text added
+>>>>>>> 9d688e7a04cc5b041d43294f117fc28ca8571d68
